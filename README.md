@@ -1,1 +1,1 @@
-"# thunders-quizz" 
+![DongLiang](ThundersQuest.pdf){width=65%}
